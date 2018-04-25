@@ -15,8 +15,8 @@ Exploring flutter:)
 </p>
 
 # What I have learned by doing this demo
-- make more beautiful shadow
+- Beautiful UI with shadow(make more beautiful shadow)
 - creating gradients as a background in flutter
-- MVP(Model View Pages) concept little bit
+- MVP(Model View Presenter) concept little bit
 - pageView concept
 - I can round the corners of the whole app

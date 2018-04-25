@@ -1,4 +1,4 @@
-# travel_2
+# NEWSAPPUI
 
 A new Flutter one page Ui 
 Exploring flutter:)

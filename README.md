@@ -1,8 +1,12 @@
 # travel_2
 
-A new Flutter application.
+A new Flutter one page Ui 
+Exploring flutter:)
 
-## Getting Started
+# Demo
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<a href="https://gfycat.com/gifs/detail/ChiefRealJay"><img src=https://thumbs.gfycat.com/ChiefRealJay-size_restricted.gif></a>
+
+# inspiration
+![alt text](https://github.com/vishweshsoni/newsAppPage/blob/master/Image/inspirationaldesign.png)
+

@@ -1,4 +1,4 @@
-# NEWSAPPUI
+# NEWS APP UI
 
 A new Flutter one page Ui 
 Exploring flutter:)
